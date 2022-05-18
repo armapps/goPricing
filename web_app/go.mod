@@ -1,4 +1,4 @@
-module goPricing
+module github.com/armapps/goPricing
 
 go 1.18
 
